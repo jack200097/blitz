@@ -1,0 +1,9 @@
+"babyball"
+{
+    "base"      "base"
+    "title"     "Blitz"
+    "maps"      "^blz_"
+    "menusystem"    "1"
+
+
+}
